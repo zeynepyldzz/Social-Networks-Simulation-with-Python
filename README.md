@@ -2,13 +2,6 @@
 Project Introduction: This project is a simulation example designed to understand social network analysis and information spread. The project focuses on analyzing the structure of a social network, identifying the most influential individuals, and simulating the spread of influence step by step. The Erdos-Renyi model is used to generate the social network structure, and the PageRank algorithm is applied to evaluate node influence.
 
 
-## How to Run
-
-To run the simulation, use the following command in your terminal:
-
-```bash
-py main.py
-
 Project Results:
 
 1)This project successfully models social network structures and analyzes influence among individuals. 
@@ -23,8 +16,6 @@ You can see the images of a sample simulation created by running the project bel
 
 
 
-
-
 ![image](https://github.com/user-attachments/assets/f8f2a141-5228-481a-af03-1297b32864b0)
 ![image](https://github.com/user-attachments/assets/515ee6a5-2359-450d-878e-ceb7bed2fc06)
 ![image](https://github.com/user-attachments/assets/42486cb9-f05d-4a36-ad5c-b2498506b1f7)
@@ -33,6 +24,14 @@ You can see the images of a sample simulation created by running the project bel
 ![image](https://github.com/user-attachments/assets/f5482507-a527-4ca7-a6ce-c3398a1d73e8)
 ![image](https://github.com/user-attachments/assets/c7c90546-907f-4a78-947a-b9c241cabb68)
 ![image](https://github.com/user-attachments/assets/1a925f09-5dc8-4061-bb87-b3e723b604a1)
+
+
+
+## How to Run
+To run the simulation, use the following command in your terminal:
+
+```bash
+py main.py
 
 
 
