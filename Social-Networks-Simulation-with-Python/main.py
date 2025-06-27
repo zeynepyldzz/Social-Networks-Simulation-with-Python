@@ -45,7 +45,7 @@ def influence_spread_simulation(G, pagerank, max_steps=100):
     plt.title(f"Influence Spread - Step 0 (Start: {start_node})")
     plt.show()
 
-    plt.pause(30)  # Show the initial state for 5 seconds
+    plt.pause(5)  # Show the initial state for 5 seconds
 
     # Influence spread occurs step by step
     step = 0
