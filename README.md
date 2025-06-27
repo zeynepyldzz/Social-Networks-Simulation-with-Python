@@ -1,5 +1,7 @@
     # Simulation of Information Spread in Social Networks
-Project Introduction: This project is a simulation example designed to understand social network analysis and information spread. The project focuses on analyzing the structure of a social network, identifying the most influential individuals, and simulating the spread of influence step by step. The Erdos-Renyi model is used to generate the social network structure, and the PageRank algorithm is applied to evaluate node influence.
+Project Introduction:
+
+This project is a simulation example designed to understand social network analysis and information spread. The project focuses on analyzing the structure of a social network, identifying the most influential individuals, and simulating the spread of influence step by step. The Erdos-Renyi model is used to generate the social network structure, and the PageRank algorithm is applied to evaluate node influence.
 
 
 Project Results:
